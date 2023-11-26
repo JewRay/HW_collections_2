@@ -40,6 +40,7 @@ public class Main {
         for (String word : uniqueWords) {
             System.out.print(word + " ");
         }
+        System.out.println();
     }
 
     public static void task4(List<String> words) {
